@@ -26,7 +26,7 @@
 sheet->SetCell("A1"_pos, "=A2");
 sheet->SetCell("A2"_pos, "=A1");
 ```
-## Использованные идеомы, технологии и элементы языка
+## Использованные идиомы, технологии и элементы языка
 - OOP: inheritance, abstract interfaces, final classes
 - STL smart pointers
 - std::variant and std:optional
